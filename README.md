@@ -35,12 +35,13 @@ There are 2 notebooks available here to showcase work related to be above mentio
 - BigMacPrices - Analyses --> Notebook that analyses the cleaned dataset and tries to answer the research questions
 
 ## Results<a name="results"></a>
-
+TO DO: 
+@LINK
 The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Credit must be given to the kaggle user "Vittorio Giatti" for making this datasat available to the public via the following [link](https://www.kaggle.com/datasets/vittoriogiatti/bigmacprice?resource=download)
+Credit must be given to the kaggle user "Vittorio Giatti" for making this dataset available to the public via the following [link](https://www.kaggle.com/datasets/vittoriogiatti/bigmacprice?resource=download)
 
 The data regarding CPI have been downloaded from the OECD via the following [link](https://data.oecd.org/price/inflation-cpi.htm)
 
