@@ -41,5 +41,6 @@ The main findings of the code can be found at the post available [here](https://
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
 Credit must be given to the kaggle user "Vittorio Giatti" for making this datasat available to the public via the following [link](https://www.kaggle.com/datasets/vittoriogiatti/bigmacprice?resource=download)
+
 The data regarding CPI have been downloaded from the OECD via the following [link](https://data.oecd.org/price/inflation-cpi.htm)
 
