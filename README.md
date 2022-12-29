@@ -35,9 +35,7 @@ There are 2 notebooks available here to showcase work related to be above mentio
 - BigMacPrices - Analyses --> Notebook that analyses the cleaned dataset and tries to answer the research questions
 
 ## Results<a name="results"></a>
-TO DO: 
-@LINK
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://medium.com/@smulders.jmm/from-burgers-to-business-the-big-mac-index-d109339cb543).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
